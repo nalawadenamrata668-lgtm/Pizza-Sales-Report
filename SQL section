@@ -1,0 +1,16 @@
+## 🗄️ SQL Analysis
+
+SQL was used to explore, clean, transform, and analyze the pizza sales
+data before connecting it to Power BI.
+
+SQL operations included:
+
+- Data filtering
+- Data aggregation
+- GROUP BY analysis
+- Sorting and ranking
+- Revenue analysis
+- Order analysis
+- Pizza quantity analysis
+- Category-wise analysis
+- Size-wise analysis
